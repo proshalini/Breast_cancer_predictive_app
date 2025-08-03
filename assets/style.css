@@ -1,0 +1,18 @@
+
+.stColumn.st-emotion-cache-1qgo2pk.e1msl4mp1 {
+  border-radius: 0.5rem;
+    background-color: #7E99AB;
+    padding: 1rem;
+}
+
+.diagnosis{
+  color: #ffffff;
+  padding:0.2em 0.5em ;
+  border-radius: 0.5rem;
+}
+.diagnosis.benign {
+  background-color: #40e155;
+}
+.diagnosis.malignant {
+  background-color: #f03e3e;
+}
